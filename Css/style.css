@@ -1,0 +1,48 @@
+
+.nav-1
+{
+    margin: 1rem;
+    padding: 0.8rem;
+    border-radius: 1rem;
+    text-align: center;
+    font-size: 1rem;
+    display: inline-block;
+    background-color: #000000;
+    float: right;
+    
+}   
+
+.nav-1 a
+{
+    color: #ffffff;
+}
+
+.main-page {
+    width: 670px;
+    background-color:#ffffff;
+    margin: 100px;
+    padding: 10px;
+    height: auto;
+    display: inline-block;
+    position: relative;
+}
+
+.pagina-1__secciones
+{
+    width: 300px;
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 10px;
+    float: left;
+    height: auto;
+    text-align: center;
+}
+
+.pagina-2__secciones
+{
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
